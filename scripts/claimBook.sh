@@ -44,4 +44,4 @@ curl -b $TMPFOLDER/tmpcookies 'https://www.packtpub.com'$TODAYLINK -H 'Pragma: n
 echo "Deleting residual files..."
 rm -R $TMPFOLDER
 
-echo "Done. Thank you for use this script :)"
+echo "Done. Thank you for using this script :)"
